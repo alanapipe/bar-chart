@@ -1,0 +1,16 @@
+seriesColor,xAxisColumn,yAxisColumn,name,values
+Fixed income,1,15,High yeild corporate debt,61
+Fixed income,1,14,Investment grade corporate debt,60
+Alts,1,13,Private equities,58
+Equity,1,12,Emerging market equities,58
+Equity,1,11,US equities,54
+Equity,1,10,Asia Pacific equities,51
+Fixed income,1,9,Emerging market debt,49
+Fixed income,1,8,Private debt,40
+Alts,1,7,Securitized debt,40
+Fixed income,1,6,Real estate/REITs,39
+Equity,1,5,European equities,35
+Alts,1,4,Hedge fund strategies,35
+Alts,1,3,Infrastructure,34
+Fixed income,1,2,Green bonds,20
+Alts,1,1,Commodities,10
